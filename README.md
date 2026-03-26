@@ -206,7 +206,5 @@ Connect to your local MySQL instance and refresh data.
 
 *Dataset: Online Retail II — UCI Machine Learning Repository*
 *Available on Kaggle — free download*
-```
 
----
 
